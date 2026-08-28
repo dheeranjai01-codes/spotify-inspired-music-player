@@ -6,7 +6,7 @@ A Spotify-inspired music player interface built from scratch using HTML and CSS.
 
 ![Spotify-Inspired Music Player](project-preview.png) 
 
-##🌐 Live Demo
+##    🌐 Live Demo
 https://dheeranjai01-codes.github.io/spotify-inspired-music-player/
 
 ## ✨ Features
